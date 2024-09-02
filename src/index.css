@@ -1,0 +1,24 @@
+.h3{
+  color: red;
+  text-align: center;
+}
+.card:hover
+{
+  background-color:beige;
+}
+.Navbar:hover
+{
+  background-color:greenyellow;
+}
+
+.login-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 2rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+.login-container h2 {
+    margin-bottom : 1.5rem;
+}
